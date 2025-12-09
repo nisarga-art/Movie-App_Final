@@ -44,7 +44,7 @@ This is a complete Android application built to demonstrate modern development p
     *   Navigate to the file: `app/build.gradle.kts`.
     *   Find the following line inside the `buildTypes { debug { ... } }` block:
       ```kotlin
-      buildConfigField("String", "TMDB_API_KEY", "\"20300c81c79757d53e60c5546424a923\"")
+      buildConfigField("String", "TMDB_API_KEY", "\"xxxxxxxxxxxxxxxxxxxxxxx\"")
       ```
     *   Replace the key with your own valid TMDB API key if necessary.
 
